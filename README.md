@@ -1,0 +1,1 @@
+Esto es el README inicial, esto no va a ser un proyecto, va a ser un repositorio para poder hacer pruebas con Git Bash, probar comandos y ver que todo va bien.
